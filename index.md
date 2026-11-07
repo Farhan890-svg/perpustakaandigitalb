@@ -3,7 +3,7 @@ Selamat Datang di Perpustakaan Digital
 Berikut ini adalah Koleksi yang dimiliki:
 ## Koleksi
 1. [Aku Ini Binatang Jalang](ebook/Aku Ini Binatang Jalang.pdf) - Chairil Anwar (1986)
-2. [Si Cerdik](ebook/Si Cerdik.pdf) - Atisah (2021)
+2. [Rumah Lebah](ebook/Rumah Lebah.pdf) - Ruwi Meita (2008)
 3. [Rasuk](ebook/Rasuk.pdf) - Risa Saraswati (2018)
 4. [Berani Tidak Disukai](ebook/Berani Tidak Disukai.pdf) - Ichiro Kishimi (2013)
 5. [Night of a Thousand Hells](ebook/Night of a Thousand Hells.pdf) - Intan Paramaditha (2026)
