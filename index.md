@@ -11,6 +11,6 @@ Berikut ini adalah Koleksi yang dimiliki:
 7. [Lelaki Harimau](ebook/Lelaki Harimau.pdf) - Eka Kurniawan (2004)
 8. [Catatan Seorang Demonstran](ebook/Catatan Seorang Demonstran.pdf) - Soe Hok Gie (1983)
 9. [Nyanyi Sunyi Seorang Bisu 2](ebook/Nyanyi Sunyi Seorang Bisu 2.pdf) - Pramoedya Ananta Toer (1988)
-10. [Dua Dini Hari](ebook/Dua Dini Hari.pdf) - Chandra Bientang (2019)
+10.10. [Dua Dini Hari](ebook/Dua Dini Hari.pdf) - Chandra Bientang (2019)
 ---
 *Powered by GitHub Pages*
