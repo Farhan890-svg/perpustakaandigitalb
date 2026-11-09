@@ -12,6 +12,6 @@ Berikut ini adalah Koleksi yang dimiliki:
 8. [Catatan Seorang Demonstran](ebook/Catatan Seorang Demonstran.pdf) - Soe Hok Gie (1983)
 9. [Nyanyi Sunyi Seorang Bisu 2](ebook/Nyanyi Sunyi Seorang Bisu 2.pdf) - Pramoedya Ananta Toer (1988)
 10. [Dua Dini Hari](ebook/Dua Dini Hari.pdf) - Chandra Bientang (2019)
-11. [Ringkasan UGC Transforming Libraries Through Information Technology](ebook/Ringkasan UGC Transforming Libraries Through Information Technology) - Farhan Nurfebrian Miftakhul Falah (2026) 
+11. [Ringkasan UGC Transforming Libraries Through Information Technology](ebook/Ringkasan UGC Transforming Libraries Through Information Technology.pdf) - Farhan Nurfebrian Miftakhul Falah (2026) 
 ---
 *Powered by GitHub Pages*
