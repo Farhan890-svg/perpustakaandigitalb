@@ -1,7 +1,5 @@
 # Digital Library
-Farhan Nurfebrian Miftakhul Falah (13040124130059)
-
-Selamat Datang di Perpustakaan Digital
+Selamat Datang di Perpustakaan Digital Farhan Nurfebrian Miftakhul Falah (13040124130059).
 Berikut ini adalah Koleksi yang dimiliki:
 ## Koleksi
 1. [Aku Ini Binatang Jalang](ebook/Aku Ini Binatang Jalang.pdf) - Chairil Anwar (1986)
